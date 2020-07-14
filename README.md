@@ -44,9 +44,9 @@ Test code for "Visual Tracking by TridentAlign and Context Embedding"
 - Modify `cfgs/cfg_test.py` file to local `LaSOTBenchmark` folder path
 - Run `python test_tracker.py`
 
-### To test tracker on a arbitrary sequence
+### To test tracker on an arbitrary sequence
 
-- Using `run_track_seq()` function in `tracker_batch.py`, tracker can run on a arbitrary sequence
+- Using `run_track_seq()` function in `tracker_batch.py`, tracker can run on an arbitrary sequence
 - Provide the function with following variables
   - `seq_name` : name of the given sequence
   - `seq_path` : path to the given sequence
