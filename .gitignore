@@ -1,0 +1,7 @@
+.temp/
+.ipynb_checkpoints/
+*.pyc
+*.pth
+*.txt
+*.tar
+*.mp4
