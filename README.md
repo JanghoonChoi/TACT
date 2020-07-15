@@ -4,6 +4,7 @@ Test code for "Visual Tracking by TridentAlign and Context Embedding"
 
 #### Janghoon Choi, Junseok Kwon, and Kyoung Mu Lee
 
+[arXiv paper](https://arxiv.org/pdf/2007.06887.pdf)
 
 ## Overall Framework
 
@@ -67,7 +68,7 @@ If you find our work useful for your research, please consider citing the follow
 @article{choi2020tact,
   title={Visual tracking by tridentalign and context embedding},
   author={Choi, Janghoon and Kwon, Junseok and Lee, Kyoung Mu},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2007.06887},
   year={2020}
 }
 ```
